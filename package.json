@@ -1,0 +1,24 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "description": "Node Todo Api",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "engines": {
+	  "node": "6.3.0"
+  },
+  "respository": {
+	  "type": "git",
+	  "url": "git+https://github.com/YancyShmancy/todo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  },
+  "homepage": "https://github.com/YancyShmancy/todo-api#readme",
+  "devDependencies": {}
+}
